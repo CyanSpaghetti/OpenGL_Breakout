@@ -1,3 +1,7 @@
+/*
+	CyanSpaghetti 2023
+*/
+
 #include <gl/glut.h>
 #include <gl/GL.h>
 #include <iostream>
